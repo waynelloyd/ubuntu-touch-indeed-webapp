@@ -1,0 +1,19 @@
+[
+        {
+                "protocol": "http",
+                "domain-suffix": "indeed.com"
+        },
+        {
+                "protocol": "http",
+                "domain-suffix": "indeed.co.uk"
+        },
+        {
+                "protocol": "https",
+                "domain-suffix": "indeed.com"
+        },
+        {
+                "protocol": "https",
+                "domain-suffix": "indeed.co.uk"
+        }
+
+]

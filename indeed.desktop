@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Indeed Job Search
+Comment=Unoffical Webapp for Indeed Job Search
+Type=Application
+Icon=Indeed.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --local-webapp-manifest --webappModelSearchPath=.
+Terminal=false
+X-Ubuntu-Touch=true
+
