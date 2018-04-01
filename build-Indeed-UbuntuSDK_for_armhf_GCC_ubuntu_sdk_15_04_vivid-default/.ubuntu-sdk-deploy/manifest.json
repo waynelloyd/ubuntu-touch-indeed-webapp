@@ -1,0 +1,16 @@
+{
+    "name": "indeed.waynelloyd",
+    "description": "Unofficial Webapp for Indeed Job Search",
+    "architecture": "all",
+    "title": "Indeed Job Search",
+    "hooks": {
+        "indeed": {
+            "apparmor": "indeed.apparmor",
+            "desktop": "indeed.desktop",
+            "urls": "indeed.url-dispatcher"
+        }
+    },
+    "version": "0.3",
+    "maintainer": "waynelloyd <wayne.lloyd@outlook.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
